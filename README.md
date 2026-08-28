@@ -1,2 +1,11 @@
-# data-analysis-learning
-My data analysis learning journey
+# Data Analysis Learning
+
+I'm learning:
+
+- SQL
+- Python
+- BI
+- Git
+- GitHub
+
+My goal is to become a data analyst.
